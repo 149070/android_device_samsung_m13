@@ -82,7 +82,7 @@ heimdall flash --RECOVERY recovery.img
 
 ## Tested Firmware
 
-- M135FXXSCEYK2 (Android 14, One UI 6.1)
+- M135FXXSEEZD1 (Android 14, One UI 6.1)
 
 ## Credits
 
